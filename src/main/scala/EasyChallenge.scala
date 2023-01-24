@@ -1,3 +1,6 @@
+// 6 kyu
+// https://www.codewars.com/kata/5873b2010565844b9100026d/train/scala
+
 import scala.collection.mutable.ListBuffer
 
 object EasyChallenge {
